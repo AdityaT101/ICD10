@@ -31,7 +31,7 @@ router.get('/getAllTblCategory', function(req,res,next){
     });
 
 });
-
+//
 
 router.get('/getTblSubCategory', function(req,res,next){
 
